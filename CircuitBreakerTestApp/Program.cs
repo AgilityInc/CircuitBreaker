@@ -10,7 +10,7 @@ namespace CircuitBreakerTestApp
     class Program
     {
         private static long DoThingPrimeNumber = 100000;
-        private static TimeSpan CacheDuration = TimeSpan.FromSeconds(10);
+        private static TimeSpan CacheDuration = TimeSpan.FromSeconds(30);
         private static string WorkingDirectory = @"C:\Cache";
 
         static void Main(string[] args)
@@ -42,7 +42,7 @@ namespace CircuitBreakerTestApp
                 Console.WriteLine("Result was in cache, returned from cache.");
             } else
             {
-                Console.WriteLine("Result was NOT in cache and function was run again.");
+                Console.WriteLine("Result was NOT in cache and function was run.");
             }
 
             OutputThing(result);
