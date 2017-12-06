@@ -1,6 +1,5 @@
 # Circuit Breaker
-Class library to manage caching for CPU intensive workloads or accessing volatile resources with memory and file based caching.
-
+Class library to manage caching for CPU intensive workloads or accessing volatile resources with memory and file based caching. See [Fixing Performance Issues - Introducing Circuit Breaker](https://help.agilitycms.com/hc/en-us/articles/115003225232-Fixing-Performance-Issues-Introducing-Caching-with-Circuit-Breaker) for more information.
 ## Use Cases
 1. Caching responses from volatile resources such as APIs
 2. Caching responses from functions/methods that are CPU intensive
