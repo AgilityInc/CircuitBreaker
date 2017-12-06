@@ -40,3 +40,5 @@ This repo has a console app you can run to test the functionality. This console 
 5. Run the program
 6. Optionally, "continue" the program to see how it will fetch from cache/file based on your "CacheDuration"
 7. Optionally, enter "error" within the program to run the next iteration of the function to throw an error and note how it will fallback to the latest file based cache.
+
+
