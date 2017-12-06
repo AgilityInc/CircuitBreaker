@@ -1,0 +1,11 @@
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\bin\Debug\CircuitBreakerTestApp.exe.config
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\bin\Debug\CircuitBreakerTestApp.exe
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\bin\Debug\CircuitBreakerTestApp.pdb
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\bin\Debug\CircuitBreaker.dll
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\bin\Debug\Newtonsoft.Json.dll
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\bin\Debug\CircuitBreaker.pdb
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\bin\Debug\Newtonsoft.Json.xml
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\obj\Debug\CircuitBreakerTestApp.csprojResolveAssemblyReference.cache
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\obj\Debug\CircuitBreakerTestApp.csproj.CoreCompileInputs.cache
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\obj\Debug\CircuitBreakerTestApp.exe
+C:\Workspaces\git-repos\CircuitBreakerTestApp\CircuitBreakerTestApp\obj\Debug\CircuitBreakerTestApp.pdb
